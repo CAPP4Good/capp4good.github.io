@@ -27,7 +27,7 @@
     "image": ""
   },
   {
-    "date": "2026-10-20",
+    "date": "2026-11-03",
     "startTime": "12:30",
     "endTime": "13:30",
     "title": "Lightning Talks",
@@ -45,7 +45,7 @@
     "image": ""
   },
   {
-    "date": "2026-11-04",
+    "date": "2026-11-18",
     "startTime": "12:30",
     "endTime": "13:30",
     "title": "Skill Session",
@@ -54,7 +54,7 @@
     "image": ""
   },
   {
-    "date": "2026-11-10",
+    "date": "2026-10-20",
     "startTime": "12:30",
     "endTime": "13:30",
     "title": "Git Together and Code",
@@ -63,7 +63,7 @@
     "image": ""
   },
   {
-    "date": "2026-11-17",
+    "date": "2026-11-10",
     "startTime": "17:00",
     "endTime": "18:00",
     "title": "Frontier Dialogue",
@@ -82,9 +82,9 @@
   },
   {
     "date": "2026-12-04",
-    "startTime": "14:00",
-    "endTime": "16:00",
-    "title": "Civic Tech Hackathon",
+    "startTime": "10:00",
+    "endTime": "13:00",
+    "title": "Game Building Study Break",
     "description": "Learn how to build games in Python.",
     "link": "",
     "image": ""

@@ -64,8 +64,8 @@
   },
   {
     "date": "2026-11-10",
-    "startTime": "16:30",
-    "endTime": "18:30",
+    "startTime": "12:30",
+    "endTime": "13:30",
     "title": "Frontier Dialogue",
     "description": "Discussion focused on ethics.",
     "link": "",
@@ -82,9 +82,9 @@
   },
   {
     "date": "2026-12-04",
-    "startTime": "10:00",
-    "endTime": "13:00",
-    "title": "Game Building Study Break",
+    "startTime": "15:00",
+    "endTime": "18:00",
+    "title": "Build-A-Game",
     "description": "Learn how to build games in Python.",
     "link": "",
     "image": ""
